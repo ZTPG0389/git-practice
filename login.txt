@@ -1,1 +1,3 @@
 Login screen logic
+Added validation
+Added error handling
