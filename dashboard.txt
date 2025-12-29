@@ -1,3 +1,8 @@
 Dashboard screen data
-Main branch update
+<<<<<<< HEAD
+
 Added user profile section in main
+=======
+Main branch update successful
+
+>>>>>>> f0f194e (Last update in feature)
