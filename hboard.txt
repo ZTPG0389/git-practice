@@ -1,0 +1,11 @@
+[33m6ebfec4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login-update[m[33m, [m[1;31morigin/feature/login-update[m[33m)[m Ignore commit
+[33m8c694f6[m Latest updatein dashboard in feature rebase issue
+[33m4b3459a[m Latest updatein dashboard in feature
+[33mc5a8a0a[m Last update in login
+[33m41ff517[m Last update in feature
+[33m039fd32[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Latest updatein dashboard
+[33m0918f99[m Main: update dashboard content
+[33m24d124b[m Main: update dashboard content
+[33m85f39e2[m Merge pull request #1 from ZTPG0389/feature/login-update
+[33m0944d27[m Improve login validation logic
+[33mb1133e7[m Initial project setup
