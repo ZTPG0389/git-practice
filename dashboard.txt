@@ -1,2 +1,3 @@
 Dashboard screen data
 Main branch update
+Added user profile section in main
